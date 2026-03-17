@@ -1,8 +1,14 @@
 # 简体中文翻译待办清单
 
-尚有 **756** 张卡牌仍为繁体中文，需要人工翻译或校对。
+尚有 **590** 张卡牌仍为繁体中文，需要人工翻译或校对。
 
-## pack/investigator/har.json (30张)
+另有 **139** 张卡牌已有简中数据覆盖，但部分字段仍残留繁体（简中翻译源数据中该字段为空）。
+
+---
+
+## 一、未覆盖的繁体卡牌
+
+### pack/investigator/har.json (30张)
 
 - 60201: 哈維·沃爾特斯
 - 60202: 知識寶庫
@@ -35,7 +41,7 @@
 - 60232: 米斯卡塔尼克考古基金
 - 60233: 死靈之書
 
-## pack/investigator/jac.json (27张)
+### pack/investigator/jac.json (27张)
 
 - 60401: 傑奎琳·法恩
 - 60402: 命運決定者
@@ -65,7 +71,7 @@
 - 60431: 預知術
 - 60432: 難述真相
 
-## pack/investigator/nat.json (29张)
+### pack/investigator/nat.json (29张)
 
 - 60101: 納撒尼爾·曹
 - 60102: 蘭道爾·曹
@@ -97,7 +103,7 @@
 - 60131: 體能訓練
 - 60132: 一二連擊
 
-## pack/investigator/ste.json (25张)
+### pack/investigator/ste.json (25张)
 
 - 60501: 斯特拉·克拉克
 - 60502: 不畏雨雪
@@ -125,7 +131,7 @@
 - 60530: 一點就通
 - 60531: 似曾相識
 
-## pack/investigator/win.json (26张)
+### pack/investigator/win.json (26张)
 
 - 60301: 溫妮弗雷德·哈巴默克
 - 60302: 你能做得更好
@@ -154,58 +160,36 @@
 - 60331: 貝雷塔M1918衝鋒槍
 - 60332: 查克·費格斯
 
-## pack/parallel/aof.json (3张)
-
-- 90081: Father Mateo
-- 90082: The Codex of Ages
-- 90083: Serpents of Yig
-
-## pack/parallel/btb_encounter.json (1张)
+### pack/parallel/btb_encounter.json (1张)
 
 - 90033a: 隱密陰謀
 
-## pack/parallel/ltr_encounter.json (1张)
+### pack/parallel/ltr_encounter.json (1张)
 
 - 90057a: 尚·德弗羅
 
-## pack/parallel/pap.json (3张)
-
-- 90084: Jenny Barnes
-- 90085: Jenny's Twin .45s
-- 90086: Searching for Izzie
-
-## pack/parallel/rop_encounter.json (1张)
-
-- 90066a: Something Else Stirs...
-
-## pack/parallel/rtr_encounter.json (1张)
+### pack/parallel/rtr_encounter.json (1张)
 
 - 90045a: 神秘相片
 
-## pack/promo/promo.json (3张)
-
-- 99001: Marie Lambeau
-- 99002: Mystifying Song
-- 99003: Baron Samedi
-
-## pack/return/rtnotz_encounter.json (1张)
+### pack/return/rtnotz_encounter.json (1张)
 
 - 50032a: 重返地底噬魔
 
-## pack/return/rtptc_encounter.json (1张)
+### pack/return/rtptc_encounter.json (1张)
 
 - 52060: 王之宮殿
 
-## pack/return/rttcu_encounter.json (1张)
+### pack/return/rttcu_encounter.json (1张)
 
 - 54037: 絞刑者河
 
-## pack/return/rttfa_encounter.json (2张)
+### pack/return/rttfa_encounter.json (2张)
 
 - 53032: 植物蔓生的莊園
 - 53034: 尋找麻煩
 
-## pack/side/blbe.json (6张)
+### pack/side/blbe.json (6张)
 
 - 89001: 個體代號5U-21
 - 89002: 飢腸轆轆
@@ -214,34 +198,13 @@
 - 89004: 現實溶蝕
 - 89005: 現實溶蝕
 
-## pack/side/blbe_encounter.json (24张)
+### pack/side/blbe_encounter.json (3张)
 
-- 89006: Main Street
-- 89007: Old Burial Hill
-- 89008: Abandoned Windmill
-- 89009: Abbatoir
-- 89010a: Replicating Aberration
-- 89010b: Replicating Aberration
-- 89010c: Replicating Aberration
-- 89010d: Replicating Aberration
-- 89010e: Replicating Aberration
-- 89010f: Replicating Aberration
-- 89010g: Replicating Aberration
-- 89010h: Replicating Aberration
-- 89010i: Replicating Aberration
-- 89011: Escort the Car
-- 89012: Armored Car
-- 89013: Mi-Go Destroyer
-- 89014: Reclaim the Brain
-- 89015: Mi-Go Scientist
-- 89016: Brain Case
-- 89017: Prevent Their Research
-- 89018: Mi-Go Researcher
 - 89019: 聯邦探員
 - 89020: 腐蝕雲霧
 - 89021: 外星器具
 
-## pack/side/blob_encounter.json (53张)
+### pack/side/blob_encounter.json (53张)
 
 - 85001: 吞噬萬物
 - 85002: 怪物擴張
@@ -297,7 +260,7 @@
 - 85052: "我中招了！"
 - 85053: 外星食物鏈
 
-## pack/side/coh_encounter.json (40张)
+### pack/side/coh_encounter.json (40张)
 
 - 82001: 恐怖狂歡節
 - 82002: 盛典開始
@@ -340,7 +303,7 @@
 - 82036: 誘拐
 - 82037: 刺鼻毒氣
 
-## pack/side/cotr_encounter.json (17张)
+### pack/side/cotr_encounter.json (17张)
 
 - 81020: 捕熊陷阱
 - 81021: 漁網
@@ -360,7 +323,7 @@
 - 81035: 河口野獸
 - 81036: 無盡嗜血
 
-## pack/side/fof_encounter.json (89张)
+### pack/side/fof_encounter.json (89张)
 
 - 88001: 時運與愚行
 - 88002: 警覺的莊家
@@ -452,7 +415,7 @@
 - 88053a: 獵人的飢渴
 - 88053b: 獵人的飢渴
 
-## pack/side/guardians_encounter.json (70张)
+### pack/side/guardians_encounter.json (70张)
 
 - 83001: 永恆沉睡
 - 83002: 傑西的請求
@@ -525,7 +488,7 @@
 - 83057: 深淵鐮形劍
 - 83058: 召來的夜魘
 
-## pack/side/hotel_encounter.json (52张)
+### pack/side/hotel_encounter.json (52张)
 
 - 84001: 艾肖希爾酒店謀殺案
 - 84002: 謀殺
@@ -580,71 +543,7 @@
 - 84051: 真兇(版本九)
 - 84052: 真兇(版本十)
 
-## pack/side/lol_encounter.json (61张)
-
-- 70001: The Labyrinths of Lunacy
-- 70002: Awakening
-- 70003: Awakening
-- 70004: Agony and Despair
-- 70005: Agony and Despair
-- 70006: The Mastermind
-- 70007: Sealed In (Group A)
-- 70008: Watery Grave (Group B)
-- 70009: The Levers (Group C)
-- 70010: The Levers (Group C)
-- 70011: Distortions in Time (Group A)
-- 70012: Seeping Death (Group B)
-- 70013: The Pet (Group C)
-- 70014: The Escape
-- 70015: The Escape
-- 70016: Chamber of Secrets
-- 70017: Chamber of Secrets
-- 70018: Chamber of Secrets
-- 70019: Chamber of Rain
-- 70020: Chamber of Sorrows
-- 70021: Chamber of Sorrows
-- 70022: Chamber of Night
-- 70023: Chamber of Night
-- 70024: Chamber of Regret
-- 70025: Labyrinthine Halls
-- 70026: Labyrinthine Halls
-- 70027: Labyrinthine Halls
-- 70028: Chamber of Hunger
-- 70029: Chamber of Decay
-- 70030: Chamber of Rot
-- 70031: Chamber of Poison
-- 70032: Abandoned Warehouse
-- 70033: Arcane Runes
-- 70034: The Rift
-- 70035: The Vent
-- 70036: The Dilemma
-- 70037: The Gate
-- 70038: Encrypted Glyphs
-- 70039: Eixodolon's Note
-- 70040: Key of Mysteries
-- 70041: Mysterious Syringe
-- 70042: Rot Diagram
-- 70043: Rot Diagram
-- 70044: Hunger Diagram
-- 70045: Hunger Diagram
-- 70046: Decay Diagram
-- 70047: Decay Diagram
-- 70048: Eixodolon
-- 70049: Eixodolon's Pet
-- 70050: Eixodolon's Pet
-- 70051: The Jailor
-- 70052: Faceless Abductor
-- 70053: Tortured Victim
-- 70054: Mi-Go Guard
-- 70055: Unnatural Weariness
-- 70056: Poisonous Gas
-- 70057: Dreadful Mechanism
-- 70058: Blood and Rust
-- 70059: Paradox Effect
-- 70060: Paradox Effect
-- 70061: Harvested Pain
-
-## pack/side/mtt_encounter.json (60张)
+### pack/side/mtt_encounter.json (60张)
 
 - 87001: 時間騙局
 - 87002: 進入虛空
@@ -707,84 +606,7 @@
 - 87056: 時間亂流
 - 87057: 逐漸消失的歷史
 
-## pack/side/tmg_encounter.json (74张)
-
-- 71001: The Midwinter Gala
-- 71002: Masked Revelers
-- 71003: Unexpected Guests
-- 71004: A Killer Party
-- 71005: Meet and Greet
-- 71006: Finding the Jewel
-- 71007: Lobby
-- 71008: Lantern Chamber
-- 71009: Art Gallery
-- 71010: Ballroom
-- 71011: Barroom
-- 71012: Bedroom
-- 71013: Library
-- 71014: Parlor
-- 71015: The Foundation [guardian]
-- 71015b: The Foundation [guardian]
-- 71016: Valeriya Antonova
-- 71016b: Valeriya Antonova
-- 71017: Archibald Hudson
-- 71018: Special Agent Callahan
-- 71019: Horacio Martinez
-- 71020: Rookie Cop
-- 71021: Miskatonic University [seeker]
-- 71021b: Miskatonic University [seeker]
-- 71022: Caldwell Philips
-- 71022b: Caldwell Philips
-- 71023: Dr. Mya Badry
-- 71024: Lucas Tetlow
-- 71025: Elizabeth Conrad
-- 71026: Confusion
-- 71027: The Syndicate [rogue]
-- 71027b: The Syndicate [rogue]
-- 71028: Johnny Valone
-- 71028b: Johnny Valone
-- 71029: Miranda Keeper
-- 71030: Arsène Renard
-- 71031: Nova Malone
-- 71032: Cold Streak
-- 71033: Silver Twilight Lodge [mystic]
-- 71033b: Silver Twilight Lodge [mystic]
-- 71034: Carl Sanford
-- 71034b: Carl Sanford
-- 71035: Prudence Douglas
-- 71036: Sarah Van Shaw
-- 71037: Raymond Loggins
-- 71038: Ward of Preservation
-- 71039: Locals of Kingsport [survivor]
-- 71039b: Locals of Kingsport [survivor]
-- 71040: William Bain
-- 71040b: William Bain
-- 71041: Delores Gadling
-- 71042: Thomas Olney
-- 71043: Claire Wilson
-- 71044: Unlucky
-- 71045: The Bloodless Man
-- 71045b: The Bloodless Man
-- 71046: The Pale Lantern
-- 71046b: The Pale Lantern
-- 71047: Enraged Gug
-- 71048: Abhorrent Moon-Beast
-- 71049: Savage Shantak
-- 71050: Vicious Ambush
-- 71051: Declan Pearce
-- 71052: Jewel of Sarnath
-- 71053: Lantern Club Member
-- 71054: Bleeding Walls
-- 71055: Entrap
-- 71056: Inexplicable Cold
-- 71057: Mind Extraction
-- 71058: Noxious Fumes
-- 71059: Pushed into the Beyond
-- 71060: Secret Door
-- 71061: Terror Gate
-- 71062: Violent Commands
-
-## pack/side/wog_encounter.json (55张)
+### pack/side/wog_encounter.json (55张)
 
 - 86001: 外神之戰
 - 86002: 召喚西勒諾斯
@@ -841,3 +663,263 @@
 - 86053: 恐怖終結
 - 86054: 阿卡特之劍
 - 86055: 附魔頭骨
+
+---
+
+## 二、已覆盖但有繁体残留字段的卡牌
+
+### pack/core/core.json (3张)
+
+- 01063: 新晋术士 (残留字段: text)
+- 01076: 野猫 (残留字段: text)
+- 01102: 银暮秘社僧侣 (残留字段: traits)
+
+### pack/core/core_encounter.json (1张)
+
+- 01107: 他们爬出來了！ (残留字段: name)
+
+### pack/dwl/tece_encounter.json (1张)
+
+- 02165: 大家快跑！ (残留字段: back_flavor)
+
+### pack/eoe/eoec.json (45张)
+
+- 08509: 雪冢 (残留字段: text)
+- 08515: 疾行谬物 (残留字段: text)
+- 08531: 被剖开的探险家 (残留字段: flavor)
+- 08537: 伊里亚·阿什瓦克 (残留字段: text)
+- 08549: 致命幻景 (残留字段: text, back_text)
+- 08553: 旧事阴影(版本一) (残留字段: text)
+- 08554: 旧事阴影(版本二) (残留字段: text)
+- 08555: 旧事阴影(版本三) (残留字段: text)
+- 08562b: 沿海水域 (残留字段: flavor)
+- 08568: 凌乱宿舍 (残留字段: text)
+- 08571b: 肯斯勒博士的办公室 (残留字段: flavor)
+- 08573b: 奥斯曼前线 (残留字段: flavor)
+- 08574b: 黑色岩石 (残留字段: flavor)
+- 08575b: 狩猎失败之记忆 (残留字段: text)
+- 08576b: 去世病人之记忆 (残留字段: text)
+- 08577: 失踪父亲之记忆 (残留字段: text)
+- 08577b: 失踪父亲之记忆 (残留字段: text)
+- 08578b: 饱经战乱的国家之记忆 (残留字段: text)
+- 08579b: 悔恨航程之记忆 (残留字段: text, flavor)
+- 08580b: 无法述说的恶魔之记忆 (残留字段: text)
+- 08581b: 可怕发现之记忆 (残留字段: text)
+- 08582b: 翻译异星文字之记忆 (残留字段: text)
+- 08583b: 单恋之记忆 (残留字段: text, flavor)
+- 08599: 登上高峰 (残留字段: back_flavor)
+- 08604: 岩架 (残留字段: text)
+- 08624: 错综复杂之城(版本一) (残留字段: flavor)
+- 08625: 错综复杂之城(版本二) (残留字段: flavor)
+- 08626: 错综复杂之城(版本三) (残留字段: flavor)
+- 08630: 隐密隧道 (残留字段: back_flavor)
+- 08649: 伊夸之门 (残留字段: back_text)
+- 08657: 原始恐怖 (残留字段: flavor)
+- 08659: 跳动的心脏 (残留字段: text)
+- 08660: 瘴气的召唤 (残留字段: text)
+- 08661: 疯狂的召唤 (残留字段: text)
+- 08674: 迷雾高塔 (残留字段: back_flavor)
+- 08675: 迷雾高塔 (残留字段: back_flavor)
+- 08676: 迷雾高塔 (残留字段: back_flavor)
+- 08677: 迷雾高塔 (残留字段: back_flavor)
+- 08678: 迷雾高塔 (残留字段: back_flavor)
+- 08687: 原初恶魔 (残留字段: text)
+- 08688: 潜藏的疯狂 (残留字段: text)
+- 08689: 实体疯狂 (残留字段: text)
+- 08690: 冰川幻影 (残留字段: text)
+- 08703: 渎神幻象 (残留字段: text)
+- 08705: 噩梦烟气 (残留字段: text)
+
+### pack/fhv/fhvc.json (6张)
+
+- 10514: 沉沒隧道 (残留字段: name)
+- 10525: 吊诡的靜默 (残留字段: name)
+- 10549: 寂靜荒野 (残留字段: name)
+- 10553: 失落的遗产 (残留字段: back_name)
+- 10660: 山谷的命运(版本四) (残留字段: back_flavor)
+- 10681: 欢迎来到毒堇谷！ (残留字段: back_name)
+
+### pack/fhv/fhvp.json (1张)
+
+- 10009: 亚历山德拉·佐兹 (残留字段: back_flavor)
+
+### pack/parallel/aon.json (1张)
+
+- 90009: 在逃中 (残留字段: flavor)
+
+### pack/parallel/ltr_encounter.json (1张)
+
+- 90056: 安魂镇息 (残留字段: back_flavor)
+
+### pack/parallel/rtr.json (2张)
+
+- 90037: 温蒂·亚当斯 (残留字段: flavor)
+- 90038: 潮汐信物 (残留字段: traits)
+
+### pack/ptc/dca_encounter.json (2张)
+
+- 03326c: 荒涼平原 (残留字段: name)
+- 03336: 长翼者 (残留字段: text)
+
+### pack/ptc/eotp.json (1张)
+
+- 03106: 英勇救援 (残留字段: text)
+
+### pack/ptc/ptc.json (1张)
+
+- 03009: 索菲 (残留字段: back_text)
+
+### pack/ptc/ptc_encounter.json (2张)
+
+- 03062: 礼节性迟到 (残留字段: back_text)
+- 03081: 黛安娜·迪瓦恩 (残留字段: name, text)
+
+### pack/ptc/tuo_encounter.json (2张)
+
+- 03176: 花園 (残留字段: name)
+- 03185: 约束衣 (残留字段: traits)
+
+### pack/return/rtnotz_encounter.json (2张)
+
+- 50011: 重返聚集于此 (残留字段: text)
+- 50012: 神秘通道 (残留字段: back_name)
+
+### pack/return/rtptc.json (1张)
+
+- 52013: 邪秽誓约(胆怯) (残留字段: subname)
+
+### pack/return/rtptc_encounter.json (10张)
+
+- 52021: 重返最后的王者 (残留字段: back_text)
+- 52022: 宁缺毋迟 (残留字段: back_text)
+- 52023: 令人作呕的现实 (残留字段: subname, text, traits, flavor)
+- 52023b: 黛安娜·迪瓦恩 (残留字段: name, text, flavor)
+- 52024: 令人作呕的现实 (残留字段: traits)
+- 52025: 黛安娜·迪瓦恩 (残留字段: name, text)
+- 52032: 历史协会 (残留字段: flavor)
+- 52050: 骸骨堆 (残留字段: back_text, back_flavor)
+- 52051: 研究站点 (残留字段: back_text, back_flavor)
+- 52052: 颅骨之海 (残留字段: back_text, back_flavor)
+
+### pack/side/cotr_encounter.json (9张)
+
+- 81004: 诅咒蔓延 (残留字段: back_flavor)
+- 81005: 寻找埃斯普利特 (残留字段: back_flavor)
+- 81013: 遗忘湿地 (残留字段: text)
+- 81014: 猎手居所 (残留字段: text)
+- 81015: 扭曲灌木 (残留字段: text, flavor)
+- 81016: 邪穢沼澤 (残留字段: name, text, traits, back_flavor)
+- 81017: 儀式場地 (残留字段: name, text, traits, flavor, back_name, back_flavor)
+- 81018: 雜草叢生的石堆 (残留字段: name, text, traits, flavor, back_name, back_flavor)
+- 81019: 埃斯普利女士 (残留字段: subname, text, traits)
+
+### pack/tcu/tcu.json (5张)
+
+- 05004: 黛安娜·史丹利 (残留字段: name, text, back_flavor)
+- 05013: 银暮匕首 (残留字段: text)
+- 05014: 黑暗洞察 (残留字段: text)
+- 05015: 可怕的秘密 (残留字段: text)
+- 05031: 月亮·XVIII (残留字段: subname)
+
+### pack/tdc/tdcp.json (1张)
+
+- 11011: 迈克尔·麦克格林 (残留字段: back_text)
+
+### pack/tde/dsm.json (1张)
+
+- 06200: 夜盜 (残留字段: name, text)
+
+### pack/tde/sfk_encounter.json (1张)
+
+- 06132: 伊伯遗迹 (残留字段: back_text)
+
+### pack/tde/tde.json (3张)
+
+- 06001: 托米·马尔登 (残留字段: text, back_text)
+- 06013: 门之匣 (残留字段: subname, traits)
+- 06022: 皇后的挂坠 (残留字段: text)
+
+### pack/tde/tsh_encounter.json (1张)
+
+- 06173: 无尽阶梯 (残留字段: flavor)
+
+### pack/tde/wgd.json (1张)
+
+- 06283: 脱缰野兽 (残留字段: text)
+
+### pack/tde/woc.json (1张)
+
+- 06326: 乔伊“老鼠”弗吉尔 (残留字段: flavor)
+
+### pack/tfa/hote.json (1张)
+
+- 04203: 战壕大衣 (残留字段: traits)
+
+### pack/tfa/hote_encounter.json (1张)
+
+- 04206b: 昆扬之口 (残留字段: flavor)
+
+### pack/tfa/sha_encounter.json (1张)
+
+- 04331: 纽约遗址 (残留字段: traits)
+
+### pack/tfa/tbb.json (1张)
+
+- 04159: 反复尝试 (残留字段: text)
+
+### pack/tfa/tfa.json (3张)
+
+- 04009: 未知的呼唤 (残留字段: traits)
+- 04023: 埃茲特里之牙 (残留字段: name)
+- 04035: 雅沃托 (残留字段: subname, text)
+
+### pack/tfa/tfa_encounter.json (1张)
+
+- 04052: 伊塔卡 (残留字段: subname, traits)
+
+### pack/tfa/tof_encounter.json (1张)
+
+- 04120: 来到展厅 (残留字段: flavor)
+
+### pack/tic/hhg_encounter.json (1张)
+
+- 07201: 热力追踪 (残留字段: back_flavor)
+
+### pack/tic/itm_encounter.json (4张)
+
+- 07312: 海面之下 (残留字段: back_flavor)
+- 07313: 星潮合相 (残留字段: flavor)
+- 07314: 洪水 (残留字段: back_flavor)
+- 07328: 达贡巢穴 (残留字段: back_flavor)
+
+### pack/tic/lif_encounter.json (1张)
+
+- 07238: 深海信徒 (残留字段: back_text)
+
+### pack/tic/lod_encounter.json (2张)
+
+- 07279: 仪式推进 (残留字段: back_flavor)
+- 07281: 第二誓约 (残留字段: back_flavor)
+
+### pack/tsk/tskc.json (15张)
+
+- 09538: 拉辛·法瑞 (残留字段: text)
+- 09626: 虛空奇美拉 (残留字段: name)
+- 09627: 虛空奇美拉 (残留字段: name)
+- 09628: 虛空奇美拉 (残留字段: name, text)
+- 09629: 虛空奇美拉 (残留字段: name, text)
+- 09630: 虛空奇美拉 (残留字段: name)
+- 09645: 溫莎宮酒店 (残留字段: name, back_name)
+- 09663: 畏惧收割者 (残留字段: back_name)
+- 09674b: 顽皮的阴影 (残留字段: flavor)
+- 09674d: 羞怯的阴影 (残留字段: flavor)
+- 09675b: 发掘遗骨 (残留字段: flavor)
+- 09675d: 遗失的纪念品 (残留字段: flavor)
+- 09676b: 家庭分离之痛 (残留字段: flavor)
+- 09676d: 怜悯同情之痛 (残留字段: flavor)
+- 09713: 悖逆重力之阶 (残留字段: back_text)
+
+### pack/tsk/tskp.json (2张)
+
+- 09074: 破門而入 (残留字段: name)
+- 09116: 修旧利废 (残留字段: text)
